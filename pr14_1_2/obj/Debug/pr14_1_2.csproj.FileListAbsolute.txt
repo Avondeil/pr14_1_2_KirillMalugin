@@ -1,0 +1,15 @@
+C:\Users\305-3\Desktop\Kirill Malugin\pr14_1_2\bin\Debug\pr14_1_2.exe.config
+C:\Users\305-3\Desktop\Kirill Malugin\pr14_1_2\bin\Debug\pr14_1_2.exe
+C:\Users\305-3\Desktop\Kirill Malugin\pr14_1_2\bin\Debug\pr14_1_2.pdb
+C:\Users\305-3\Desktop\Kirill Malugin\pr14_1_2\obj\Debug\pr14_1_2.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Kirill Malugin\pr14_1_2\obj\Debug\pr14_1_2.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Kirill Malugin\pr14_1_2\obj\Debug\pr14_1_2.exe
+C:\Users\305-3\Desktop\Kirill Malugin\pr14_1_2\obj\Debug\pr14_1_2.pdb
+C:\Users\kiril\Downloads\pr14_1_2_KirillMalugin-main\pr14_1_2_KirillMalugin-main\pr14_1_2\pr14_1_2\bin\Debug\pr14_1_2.exe.config
+C:\Users\kiril\Downloads\pr14_1_2_KirillMalugin-main\pr14_1_2_KirillMalugin-main\pr14_1_2\pr14_1_2\bin\Debug\pr14_1_2.exe
+C:\Users\kiril\Downloads\pr14_1_2_KirillMalugin-main\pr14_1_2_KirillMalugin-main\pr14_1_2\pr14_1_2\bin\Debug\pr14_1_2.pdb
+C:\Users\kiril\Downloads\pr14_1_2_KirillMalugin-main\pr14_1_2_KirillMalugin-main\pr14_1_2\pr14_1_2\obj\Debug\pr14_1_2.csproj.AssemblyReference.cache
+C:\Users\kiril\Downloads\pr14_1_2_KirillMalugin-main\pr14_1_2_KirillMalugin-main\pr14_1_2\pr14_1_2\obj\Debug\pr14_1_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiril\Downloads\pr14_1_2_KirillMalugin-main\pr14_1_2_KirillMalugin-main\pr14_1_2\pr14_1_2\obj\Debug\pr14_1_2.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Downloads\pr14_1_2_KirillMalugin-main\pr14_1_2_KirillMalugin-main\pr14_1_2\pr14_1_2\obj\Debug\pr14_1_2.exe
+C:\Users\kiril\Downloads\pr14_1_2_KirillMalugin-main\pr14_1_2_KirillMalugin-main\pr14_1_2\pr14_1_2\obj\Debug\pr14_1_2.pdb
